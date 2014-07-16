@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+    <link type="text/css" rel="stylesheet" href="/bootstrap.css"/>
+    <link type="text/css" rel="stylesheet" href="/style.css"/>
+    <script type="text/javascript" src="/d3.js"></script>
+    <script type="text/javascript" src="/d3.layout.js"></script>
+    <style type="text/css">
+
+
+.node circle {
+  cursor: pointer;
+  fill: #fff;
+  stroke: steelblue;
+  stroke-width: 1.5px;
+}
+
+.node text {
+  font-size: 11px;
+}
+
+path.link {
+  fill: none;
+  stroke: #ccc;
+  stroke-width: 1.5px;
+}
+
+    </style>
+  </head>
+  <body>
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Derinet</a>
+        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-2">
+          <form class="navbar-form navbar-right" role="search" id="search-form">
+            <div class="form-group">
+              <input type="text" id="search-input" class="form-control" placeholder="Search">
+              <div id="suggestion-panel"></div>
+            </div>
+          </form>
+        </div>
+      </div>
+    </nav>
+    <div id="body">
+      
+    </div>
+
+    <script type="text/javascript" src="/jquery.js"></script>
+    <script type="text/javascript" src="/graph_script.js"></script>
+    <script type="text/javascript" src="/script.js"></script>
+  </body>
+</html>

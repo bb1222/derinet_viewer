@@ -1,0 +1,34 @@
+168579  pivečko pivečko N 168584
+168580  pivko pivko N 168584
+168581  pivnice pivnice N 
+168582  pivnička  pivnička  N 
+168583  pivní pivní A 
+168584  pivo  pivo  N 
+168585  pivobraní pivobraní N 
+168586  pivonoš pivonoš N 
+168587  pivot pivot N 
+168588  pivotka pivotka_^(*2) N 168587
+168589  pivotman  pivotman  N 
+168590  pivotmanka  pivotmanka_^(*2)  N 168589
+168591  pivotův pivotův_^(*2) A 168587
+168592  pivovar pivovar N 
+168593  pivovar pivovar_,x  N 
+168594  pivovarnický  pivovarnický  A 
+168595  pivovarnictví pivovarnictví N 168594
+168596  pivovarní pivovarní A 
+168597  pivovarník  pivovarník  N 
+168598  pivovarně pivovarně_^(*1í)  D 168596
+168599  pivovarsky  pivovarsky_^(*1ý) D 168600
+168600  pivovarský  pivovarský  A 168592
+168601  pivovarství pivovarství N 
+168602  pivovárek pivovárek N 
+168603  pivovárečný pivovárečný A 
+168604  pivoň pivoň N 
+168605  pivoňka pivoňka-2 N 168604
+168606  pivoňka pivoňka N 
+168607  pivoňkový pivoňkový A 168605
+168608  pivoňský  pivoňský  A 
+168609  pivínko pivínko_,h  N 
+168610  pivínský  pivínský  A 
+168611  pivíčko pivíčko N 168580
+168612  pivčo pivčo_,l  N 

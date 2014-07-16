@@ -1,0 +1,32 @@
+svg {
+  border: 0px solid red;
+}
+
+#search-input {
+  width: 500px;
+}
+
+body {
+  padding-top: 50px;
+}
+
+#suggestion-panel {
+  border: 0px solid red;
+  background: #f8f8f8;
+  width: 500px;
+  position: absolute;
+  z-index: 30;
+  padding: 0;
+  border: 1px solid #e7e7e7;
+  cursor: pointer;
+  display: none;
+}
+
+#suggestion-panel div {
+  padding: 2px 12px;
+}
+
+.active-suggestion {
+  background: #e7e7e7;
+  color: black;
+}
